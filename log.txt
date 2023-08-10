@@ -1,0 +1,17 @@
+commit 6485db174b62f3ea0f58325e91e1fb9d99f7a772
+Author: lucio <141471494+lucioscarafiocca@users.noreply.github.com>
+Date:   Thu Aug 10 15:23:40 2023 -0300
+
+    Edit README.md and hello_world.txt
+
+commit 9e4d1020feb9e18332bf8ff09dcd87a028ee4567
+Author: lucio <141471494+lucioscarafiocca@users.noreply.github.com>
+Date:   Thu Aug 10 15:15:57 2023 -0300
+
+    Add hello_world.txt
+
+commit 97cf9c9e5be20f329e6026b23df18b932c4d1e99
+Author: lucioscarafiocca <141471494+lucioscarafiocca@users.noreply.github.com>
+Date:   Thu Aug 10 15:11:29 2023 -0300
+
+    Initial commit
